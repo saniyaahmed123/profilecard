@@ -25,7 +25,7 @@ function createProfile() {
     var fullname = fname.value + " " + lname.value;
 
     card.innerHTML = `
-    <img src="assets/user (2).png">
+    <img src="user (2).png">
         <h4 class= "name">  ${fullname}</h4>
         <hr>
         <div class='info'>
